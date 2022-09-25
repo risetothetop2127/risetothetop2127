@@ -11,9 +11,9 @@ I code things like
 * Roblox Bots (Like ranking bots)
 * and lots more
 
-[![Roses GitHub stats](https://github-readme-stats.vercel.app/api?username=risetothetop2127&show_icons=true&layout=compact&theme=dark)]
+[![Roses GitHub stats](https://github-readme-stats.vercel.app/api?username=risetothetop2127&show_icons=true&layout=compact&theme=dark)](https://github.com/risetothetop2127)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risetothetop2127&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risetothetop2127&layout=compact&theme=dark)](https://github.com/risetothetop2127)
  
 <strong>If you wish to contact me then feel free to do so</strong>
 * Discord : -Rose-#1305
