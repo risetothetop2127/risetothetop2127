@@ -1,7 +1,13 @@
 ![Header](./Assets/Images/Header.png)
 
 # About Me
-I love developing with my music at volume 100, Air Pods in and chilling in my own world
+* I love developing with my music at volume 100, Air Pods in and chilling in my own world
+* I am the Owner of <a href="https://github.com/Pink-Rose-Studios">Pink Rose Studis</a>
+* I mainly work on Discord Bots & Roblox Games
+* I'm a front end developer
+* I love learning new coding languages
+---
+## My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risetothetop2127&langs_count=10) 
 
